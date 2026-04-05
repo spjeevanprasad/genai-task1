@@ -7,8 +7,8 @@ In this task, I used the GPT-2 model to generate text based on a given input. Th
 I used the transformers library in Python to load the pre-trained model and generate the output.
 
 ## Files
-- main.py : Python code for text generation
-- output.png : Screenshot of the generated result
+- genai-task1.py : Python code for text generation
+- output_task1.png : Screenshot of the generated result
 
 ## How to run
 1. Install required libraries:
